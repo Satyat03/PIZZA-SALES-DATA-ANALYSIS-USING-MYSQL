@@ -1,21 +1,16 @@
 # PIZZA-SALES-DATA-ANALYSIS-USING-MYSQL
 
-Basic:
-Retrieve the total number of orders placed.
-Calculate the total revenue generated from pizza sales.
-Identify the highest-priced pizza.
-Identify the most common pizza size ordered.
-List the top 5 most ordered pizza types along with their quantities.
+The goal of this project is to analyze pizza sales data to gain insights for optimizing sales strategies, understanding customer preferences, and improving overall business performance.
 
+Data Exploration: Understand dataset structure, data types, and missing values.
 
-Intermediate:
-Join the necessary tables to find the total quantity of each pizza category ordered.
-Determine the distribution of orders by hour of the day.
-Join relevant tables to find the category-wise distribution of pizzas.
-Group the orders by date and calculate the average number of pizzas ordered per day.
-Determine the top 3 most ordered pizza types based on revenue.
+Statistical Analysis: Calculate total sales revenue, average order value, and popular pizza types.
 
-Advanced:
-Calculate the percentage contribution of each pizza type to total revenue.
-Analyze the cumulative revenue generated over time.
-Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+Sales Trends: Analyze sales trends over time (daily, weekly, monthly).
+Customer Segmentation: Segment customers based on ordering behavior (frequency, total spend, types of pizzas).
+
+Product Popularity: Determine popular pizza types, sizes, and toppings.
+
+Customer Preferences: Identify trends in customer preferences and demand.
+These insights aim to improve decision-making, enhance customer satisfaction, and drive revenue growth for the pizza sales business.
+
